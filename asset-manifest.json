@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-05-movies/static/css/main.7acaea2f.css",
+    "main.js": "/goit-react-hw-05-movies/static/js/main.9677e8cc.js",
+    "static/js/684.ae20ac1e.chunk.js": "/goit-react-hw-05-movies/static/js/684.ae20ac1e.chunk.js",
+    "static/js/544.f52dbe97.chunk.js": "/goit-react-hw-05-movies/static/js/544.f52dbe97.chunk.js",
+    "static/js/746.14e12900.chunk.js": "/goit-react-hw-05-movies/static/js/746.14e12900.chunk.js",
+    "static/js/961.dbd05074.chunk.js": "/goit-react-hw-05-movies/static/js/961.dbd05074.chunk.js",
+    "static/js/247.d02c25f0.chunk.js": "/goit-react-hw-05-movies/static/js/247.d02c25f0.chunk.js",
+    "static/js/186.66a44068.chunk.js": "/goit-react-hw-05-movies/static/js/186.66a44068.chunk.js",
+    "static/js/279.82e8aed5.chunk.js": "/goit-react-hw-05-movies/static/js/279.82e8aed5.chunk.js",
+    "static/js/881.4117280d.chunk.js": "/goit-react-hw-05-movies/static/js/881.4117280d.chunk.js",
+    "index.html": "/goit-react-hw-05-movies/index.html",
+    "main.7acaea2f.css.map": "/goit-react-hw-05-movies/static/css/main.7acaea2f.css.map",
+    "main.9677e8cc.js.map": "/goit-react-hw-05-movies/static/js/main.9677e8cc.js.map",
+    "684.ae20ac1e.chunk.js.map": "/goit-react-hw-05-movies/static/js/684.ae20ac1e.chunk.js.map",
+    "544.f52dbe97.chunk.js.map": "/goit-react-hw-05-movies/static/js/544.f52dbe97.chunk.js.map",
+    "746.14e12900.chunk.js.map": "/goit-react-hw-05-movies/static/js/746.14e12900.chunk.js.map",
+    "961.dbd05074.chunk.js.map": "/goit-react-hw-05-movies/static/js/961.dbd05074.chunk.js.map",
+    "247.d02c25f0.chunk.js.map": "/goit-react-hw-05-movies/static/js/247.d02c25f0.chunk.js.map",
+    "186.66a44068.chunk.js.map": "/goit-react-hw-05-movies/static/js/186.66a44068.chunk.js.map",
+    "279.82e8aed5.chunk.js.map": "/goit-react-hw-05-movies/static/js/279.82e8aed5.chunk.js.map",
+    "881.4117280d.chunk.js.map": "/goit-react-hw-05-movies/static/js/881.4117280d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.9677e8cc.js"
+  ]
+}
