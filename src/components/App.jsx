@@ -8,6 +8,7 @@ const Cast = lazy(() => import('./Cast/Cast'));
 const Reviews = lazy(() => import('./Reviews/Reviews'));
 
 export const App = () => {
+  
   return (
     <>
       <Routes>
